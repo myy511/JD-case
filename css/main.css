@@ -1508,22 +1508,34 @@ a.dijia:hover{
     color: #333;
     font-family: fzzhengheis-el-gbregular;
 }
-
+.entry_list{
+	float:left;
+	width:790px;
+}
 .entry_list li{
 	width:385px;
 	float:left;
 	margin:0 10px 2px 0;
 }
 .zhibo{
-	float:right;
+	height:345px;
 
 }
 .zhibo a{
 	display: block;
 	height: 356px;
 }
+.biaoti{
+	text-align: center;
+	font-size: 25px;
+}
 .entry_list a{
 	display: block;
+}
+.entry_list_right{
+	float:right;
+	width:400px;
+
 }
 img.pin_11{
 	transition: transform .3s ease-in,-webkit-transform .3s ease-in,-moz-transform .3s ease-in;
@@ -1536,7 +1548,7 @@ li.pin_22 {
 	height:173px;
 	width: 190px;
 	margin:0 0 0 10px;
-	float:right;
+	float:left;
 }
 
 

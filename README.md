@@ -1,7 +1,7 @@
 # JD-case
 仿京东界面
-## 主页面展示(有点长，但很完整哟，嘻嘻！)
-![](https://i.imgur.com/Nz7rcix.jpg)
+## 主页面展示
+![](https://i.imgur.com/cqY2U6b.jpg)
 ## 导航栏
 ![](https://i.imgur.com/GrD44lg.jpg)
 ## 分屏页面
